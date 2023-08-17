@@ -1,5 +1,5 @@
 import express from 'express';
-import  flights from './flights.json' assert { type: "json" };
+import flights from './flights.json'
 import cors from "cors";
 
 const app = express()
