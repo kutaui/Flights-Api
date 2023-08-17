@@ -1,0 +1,172 @@
+{
+  "data": [
+    {
+      "from": "Adana",
+      "fromCode": "ADA",
+      "to": "Ankara",
+      "toCode": "ESB",
+      "date": "2023-08-20",
+      "departure": "12:00",
+      "arrival": "14:20",
+      "length": "2:20",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/d/d9/SunExpress_Logo.svg",
+      "price": 100
+    },
+    {
+      "from": "Istanbul",
+      "fromCode": "IST",
+      "to": "Izmir",
+      "toCode": "ADB",
+      "date": "2023-08-22",
+      "departure": "08:30",
+      "arrival": "10:00",
+      "length": "1:30",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/d/d9/SunExpress_Logo.svg",
+      "price": 120
+    },
+    {
+      "from": "Antalya",
+      "fromCode": "AYT",
+      "to": "Bodrum",
+      "toCode": "BJV",
+      "date": "2023-08-25",
+      "departure": "15:45",
+      "arrival": "17:30",
+      "length": "1:45",
+      "company": "https://i.imgur.com/Np6wtmT.png",
+      "price": 80
+    },
+    {
+      "from": "London",
+      "fromCode": "LHR",
+      "to": "Paris",
+      "toCode": "CDG",
+      "date": "2023-08-21",
+      "departure": "09:00",
+      "arrival": "11:30",
+      "length": "2:30",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkish_Airlines_logo_2019_compact.svg",
+      "price": 150
+    },
+    {
+      "from": "New York",
+      "fromCode": "JFK",
+      "to": "Los Angeles",
+      "toCode": "LAX",
+      "date": "2023-08-23",
+      "departure": "14:45",
+      "arrival": "17:30",
+      "length": "5:45",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/d/d9/SunExpress_Logo.svg",
+      "price": 280
+    },
+    {
+      "from": "Tokyo",
+      "fromCode": "HND",
+      "to": "Seoul",
+      "toCode": "ICN",
+      "date": "2023-08-26",
+      "departure": "10:15",
+      "arrival": "12:30",
+      "length": "2:15",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkish_Airlines_logo_2019_compact.svg",
+      "price": 200
+    },
+    {
+      "from": "Sydney",
+      "fromCode": "SYD",
+      "to": "Auckland",
+      "toCode": "AKL",
+      "date": "2023-08-29",
+      "departure": "16:30",
+      "arrival": "19:00",
+      "length": "3:30",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkish_Airlines_logo_2019_compact.svg",
+      "price": 180
+    },
+    {
+      "from": "Berlin",
+      "fromCode": "TXL",
+      "to": "Rome",
+      "toCode": "FCO",
+      "date": "2023-09-02",
+      "departure": "11:30",
+      "arrival": "13:45",
+      "length": "2:15",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkish_Airlines_logo_2019_compact.svg",
+      "price": 130
+    },
+    {
+      "from": "Moscow",
+      "fromCode": "SVO",
+      "to": "Dubai",
+      "toCode": "DXB",
+      "date": "2023-09-05",
+      "departure": "15:00",
+      "arrival": "20:30",
+      "length": "5:30",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkish_Airlines_logo_2019_compact.svg",
+      "price": 300
+    },
+    {
+      "from": "Beijing",
+      "fromCode": "PEK",
+      "to": "Shanghai",
+      "toCode": "PVG",
+      "date": "2023-09-08",
+      "departure": "08:45",
+      "arrival": "11:15",
+      "length": "2:30",
+      "company": "https://i.imgur.com/Np6wtmT.png",
+      "price": 180
+    },
+    {
+      "from": "Mumbai",
+      "fromCode": "BOM",
+      "to": "Bangkok",
+      "toCode": "BKK",
+      "date": "2023-09-11",
+      "departure": "13:15",
+      "arrival": "17:00",
+      "length": "3:45",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/0/00/Turkish_Airlines_logo_2019_compact.svg",
+      "price": 220
+    },
+    {
+      "from": "Cape Town",
+      "fromCode": "CPT",
+      "to": "Nairobi",
+      "toCode": "NBO",
+      "date": "2023-09-14",
+      "departure": "09:30",
+      "arrival": "12:00",
+      "length": "2:30",
+      "company": "https://i.imgur.com/Np6wtmT.png",
+      "price": 160
+    },
+    {
+      "from": "Rio de Janeiro",
+      "fromCode": "GIG",
+      "to": "Buenos Aires",
+      "toCode": "EZE",
+      "date": "2023-09-17",
+      "departure": "14:00",
+      "arrival": "17:00",
+      "length": "3:00",
+      "company": "https://i.imgur.com/Np6wtmT.png",
+      "price": 200
+    },
+    {
+      "from": "Cairo",
+      "fromCode": "CAI",
+      "to": "Cape Town",
+      "toCode": "CPT",
+      "date": "2023-09-20",
+      "departure": "10:00",
+      "arrival": "15:00",
+      "length": "5:00",
+      "company": "https://upload.wikimedia.org/wikipedia/commons/d/d9/SunExpress_Logo.svg",
+      "price": 300
+    }
+  ]
+}
