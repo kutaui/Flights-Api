@@ -1,6 +1,6 @@
-import express from 'express';
-import flights from './flights.json'
-import cors from "cors";
+const express = require('express');
+const cors = require('cors');
+const flights = require('./flights.json');
 
 const app = express()
 app.use(express.json());
